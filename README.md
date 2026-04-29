@@ -204,6 +204,24 @@ This controller is widely used in:
 
 ---
 
+# What I Learned
+
+Through this project, I learned:
+
+* FSM design using Verilog
+* State transition logic and output control
+* Temperature comparison logic using tolerance range
+* Simulation using testbench and waveform analysis
+* TCL console verification in Vivado
+* Synthesis and implementation flow in FPGA design
+* Timing analysis and slack checking
+* Power analysis and resource utilization reports
+* Understanding of practical VLSI project workflow
+
+This project helped me improve my practical understanding of **Digital Design**, **Verilog HDL**, and **VLSI implementation flow**.
+
+---
+
 # Author
 
 **Gayathri Wagdevi**
